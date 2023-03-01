@@ -1,5 +1,5 @@
 {
-    "name": "wpb/string-blade-compiler",
+    "name": "dfox288/string-blade-compiler",
     "description": "Laravel Blade String Compiler, render string as blade templates",
     "keywords": ["laravel", "blade", "compiler"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Terre Porter",
             "email": "tporter@webpage-builders.com"
+        },
+        {
+            "name": "Reza Esmaili",
+            "email": "github@dfox.info"
         }
     ],
     "require": {
